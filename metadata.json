@@ -1,0 +1,6 @@
+{
+  "name": "OmniPost AI - Cross-Platform Content & Visual Studio",
+  "description": "Generate synchronized, tone-tailored social media copy and platform-optimized visuals for LinkedIn, Twitter/X, and Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
